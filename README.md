@@ -1,6 +1,6 @@
 # SQL-database-analysis
-I created a SQL database analysis, project using the dvdrental dataset from The Complete SQL Bootcamp: Go from Zero to Hero course on Udemy. 
-It's my first data analysis portfolio project.
+I created a SQL database analysis project using the dvdrental dataset from The Complete SQL Bootcamp: Go from Zero to Hero course on Udemy. 
+This is my first data analysis portfolio project.
 
 What the project covers:
 - Identification of top customers by total payment and transaction count
